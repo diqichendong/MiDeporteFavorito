@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mi Deporte Favorito</string>
+    <string name="lblTipo">Tipo:</string>
+    <string name="lblDeporte">Deporte:</string>
+    <string name="radIndividual">Individual</string>
+    <string name="radEnPareja">En pareja</string>
+    <string name="radGrupal">Grupal</string>
+
+    <string-array name="individuales">
+        <item></item>
+        <item>Ciclismo</item>
+        <item>Natación</item>
+        <item>Boxeo</item>
+    </string-array>
+    <string-array name="enPareja">
+        <item></item>
+        <item>Padel</item>
+        <item>Baile</item>
+        <item>Vóley playa</item>
+    </string-array>
+    <string-array name="grupales">
+        <item></item>
+        <item>Fútbol</item>
+        <item>Baloncesto</item>
+        <item>Rugby</item>
+    </string-array>
+</resources>
